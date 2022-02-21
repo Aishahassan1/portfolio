@@ -50,10 +50,6 @@ ul {
   margin: 10px;
 }
 
-ul.show {
-  display: block;
-}
-
 li {
   list-style: none;
   margin: 10px;
@@ -234,6 +230,10 @@ footer {
 
   ul {
     display: none;
+  }
+
+  ul.show {
+    display: block;
   }
 
   nav {
