@@ -256,3 +256,9 @@ footer {
     bottom: auto;
   }
 }
+
+@media only screen and (max-width: 427px) {
+  html {
+    overflow-x: hidden;
+  }
+}
